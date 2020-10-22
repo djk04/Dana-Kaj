@@ -8,7 +8,7 @@ public class GuiTest {
 
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("My first GUI");
-		MyFrame frame2 = new MyFrame("My first GUI prime");
+		MyFrame frame2 = new MyFrame("My first-second GUI");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(300, 300);
 		
